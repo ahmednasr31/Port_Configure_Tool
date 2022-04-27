@@ -5,7 +5,7 @@ import fileModifier  as fileMod
 
 
 
-#Inailize Array to Carry Widget Variables 
+#Inailize Array to Carry Widget  Variables 
 Radio_var=[]
 
 def init():
